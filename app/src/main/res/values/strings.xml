@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Soccer Tips</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_label">Match Details</string>
+    <string name="welcome_to_soccer_tips">Welcome To Soccer Tips</string>
+    <string name="keep_updated_yourself">Keep Updated Yourself</string>
+    <string name="explore">Explore</string>
+    <string name="our_services">Our Services</string>
+    <string name="live_score">Live Score</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="quiz">Quiz</string>
+    <string name="team_1">Team 1</string>
+    <string name="team_2">Team 2</string>
+    <string name="match_type">Match Type</string>
+    <string name="match_status">Match Status</string>
+    <string name="date">Date</string>
+    <string name="score">Score</string>
+    <string name="description">Description</string>
+    <string name="rapid_api_key" translatable="false">1bfb255f64mshf05e31b90f683ecp19dd8ejsn8edd9e29e1f7</string>
+    <string name="fixture_from_one_date" translatable="false">https://api-football-v1.p.rapidapi.com/v2/fixtures/date/@date_like_2020-03-15</string>
+    <string name="fixtures_in_play" translatable="false">https://api-football-v1.p.rapidapi.com/v2/fixtures/live</string>
+    <string name="leagues" translatable="false">https://api-football-v1.p.rapidapi.com/v2/leagues</string>
+    <string name="timezone" translatable="false">https://api-football-v1.p.rapidapi.com/v2/timezone</string>
+    <string name="fixtures_league_id_date" translatable="false">https://api-football-v1.p.rapidapi.com/v2/fixtures/league/@league_id/@date_like_2020-03-15</string>
+    <string name="team_from_id" translatable="false">https://api-football-v1.p.rapidapi.com/v2/teams/team/@team_id</string>
+    <string name="standing_from_league_id" translatable="false">https://api-football-v1.p.rapidapi.com/v2/leagueTable/league_id</string>
+</resources>
